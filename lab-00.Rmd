@@ -20,9 +20,9 @@ team_data <- tibble(
   name = c("Lucy", "Joel", "Zazzie", "Gabriel", 
            "Alex", "Jin"),
   github_username = c("roydsle", "joelhanloned", "zarinakjellberg", "gamgow", "alexjdlr", "jin2226"), 
-  colour = c("darkgreen", "green", "blue", "pink", 
-             "red", "violet"),
-  hobby = c("reading", "drums", "netball", "jazz trumpet", 
+  colour = c("maroon3", "pink", "hotpink1", "hotpink", 
+             "maroon2", "violet"),
+  hobby = c("disney +", "drums", "netball", "jazz trumpet", 
             "cooking", "reading"),
   favourite_number = c(7, 2, 2, 4, 10, 2)
   )
